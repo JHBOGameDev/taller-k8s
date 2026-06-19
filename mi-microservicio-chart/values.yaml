@@ -1,0 +1,19 @@
+replicaCount: 1
+
+image:
+  repository: josebao/mi-microservicio
+  pullPolicy: IfNotPresent
+  tag: "v1"
+
+service:
+  type: NodePort
+  port: 8000
+  targetPort: 8000
+
+resources: {}
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}
