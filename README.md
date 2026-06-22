@@ -2,7 +2,7 @@
 
 Universidad de La Sabana — Maestría en Ingeniería de Software  
 Arquitectura de Software
-
+Jose Haider Barreto Oliveros
 ---
 
 ## Descripción
