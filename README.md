@@ -132,4 +132,4 @@ josebao/mi-microservicio:v1
 ## Entregables
 
 - Código fuente: https://github.com/JHBOGameDev/taller-k8s
-- Video de demostración: [enlace al video]
+- Video de resultados: Subido en la plataforma
