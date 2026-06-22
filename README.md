@@ -2,12 +2,23 @@
 
 Universidad de La Sabana — Maestría en Ingeniería de Software  
 Arquitectura de Software
-Jose Haider Barreto Oliveros
+
 ---
 
 ## Descripción
 
 Este proyecto implementa un microservicio básico desplegado con una arquitectura moderna de contenedores y GitOps. El microservicio fue construido con FastAPI (Python) y desplegado usando Docker, Kubernetes, Helm y ArgoCD, con automatización CI/CD mediante GitHub Actions.
+
+---
+
+---
+
+## Integrante
+
+- **José Haider Barreto Oliveros**  
+  Maestría en Ingeniería de Software  
+  Universidad de La Sabana  
+  GitHub: [@JHBOGameDev](https://github.com/JHBOGameDev)
 
 ---
 
