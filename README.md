@@ -11,8 +11,6 @@ Este proyecto implementa un microservicio básico desplegado con una arquitectur
 
 ---
 
----
-
 ## Integrante
 
 - **José Haider Barreto Oliveros**  
